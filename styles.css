@@ -1,1 +1,23 @@
-/*  your css code here. If applicable */
+body{
+	background: #f8f8f8;
+	text-align: center;
+}
+
+.lib{
+	height:20px;
+	width: 100%;
+	background: rgb(46, 204, 113);
+	margin: 20px;
+	border: none;
+	color: white;
+}
+h2{
+	margin:0;
+	text-align: left;
+}
+p{
+	position: absolute;
+	text-align: left;
+	left:10px;
+	color:#777777;
+}
